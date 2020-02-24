@@ -5,8 +5,8 @@ import sys
 import pygame
 from pygame.locals import *
 
-pygame.init()
 pygame.display.set_icon(pygame.image.load("./sprites/3310icon.png"))
+pygame.init()
 
 SCREENWIDTH = 1000
 SCREENHEIGHT = 500
